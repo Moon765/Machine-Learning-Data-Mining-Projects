@@ -73,5 +73,4 @@ We compare the performance of **ResNet18, ResNet50, VGG16**, and a **custom CNN*
 - Deployment in **real-time monitoring systems**  
 
 ---
-
-## 📂 Folder Structure  
+ 
